@@ -11,3 +11,14 @@ Using OpenAI to simplify the reports put out by the national weather service.
 ## Our response from using Curie Model from OpenAI
 
 > A severe potential watch is likely for southeast Mississippi, southern Alabama, and extreme western Florida. Tornado watch conditions are favorable for tornadoes, and severe thunderstorm risk will increase as surface dew points rise.
+
+
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# Acknowledgments
+* OpenAI
+* National Weather Service
+
+# Authors
+Graham Waters
